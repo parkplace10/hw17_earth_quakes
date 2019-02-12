@@ -1,0 +1,1 @@
+# hw17_earth_quakes
